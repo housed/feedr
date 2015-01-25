@@ -10,7 +10,7 @@ As is, feedr will add the following information to a tweet:
 
 Here's [an example of feedr in action](https://twitter.com/ValveTime/status/552918907053674496)...
 
-![Feedr tweet example](https://cloud.githubusercontent.com/assets/760280/5890221/1bb13d9c-a406-11e4-8f08-fabbe9c7ced6.png)
+![Feedr tweet example](https://raw.githubusercontent.com/housed/feedr/master/doc/img/example_tweet.png)
 
 ## Required Packages ##
 
