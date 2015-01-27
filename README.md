@@ -27,3 +27,5 @@ Next, you can specify your feeds by editing the **feedr.py** file. At the top of
 The image is not some outside resource. It's something that you have to create. To fit perfectly in Twitter's viewing window, it's recommended that an image be at least **520 x 210** in dimension. And, by default, images need to go into the **media folder**. *If you don't want images in your tweets, then you can easily change & remove a few lines of code in bot.py.*
 
 One more thing... Before going live, first run **feedr.py** with **api.update_with_media()** *commented-out*. If you don't, then you're likely to flood your Twitter feed because your **database/rss_entries.db** is empty. After that, go ahead and run feedr.py as normal. Maybe setup a cronjob so that it runs periodically.
+
+Follow me on Twitter [@TheDylanHouse](twitter.com/TheDylanHouse).
