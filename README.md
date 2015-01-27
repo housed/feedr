@@ -20,6 +20,6 @@ Here's [an example of feedr in action](https://twitter.com/ValveTime/status/5529
 
 ## Getting Started is Easy ##
 
-Instructions for getting started with feedr can be found on [the Wiki](github.com/housed/feedr/wiki/Getting-Started-with-feedr).
+Instructions for getting started with feedr can be found on [the Wiki](https://www.github.com/housed/feedr/wiki/Getting-Started-with-feedr).
 
-Follow me on Twitter [@TheDylanHouse](twitter.com/TheDylanHouse).
+Follow me on Twitter [@TheDylanHouse](https://www.twitter.com/TheDylanHouse).
