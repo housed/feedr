@@ -8,6 +8,9 @@ class Feed:
     def display_feed(self):
         print " Name    : ", self.name, "\n URL     : ", self.url, "\n Media   : ", self.media, "\n Hashtag : ", self.hashtag, "\n"
 
+    def get_name(self):
+        return self.name
+        
     def get_url(self):
         return self.url
 
