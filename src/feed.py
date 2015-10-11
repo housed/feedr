@@ -11,6 +11,9 @@ class Feed:
     def get_name(self):
     return self.name
 
+    def get_name(self):
+        return self.name
+        
     def get_url(self):
         return self.url
 
