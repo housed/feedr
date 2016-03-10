@@ -16,7 +16,7 @@ Here's [an example of feedr in action](https://twitter.com/ValveTime/status/5529
 
 * [Python 2.7](https://www.python.org/downloads/)
 * [Tweepy 3.1.0](http://www.tweepy.org/)
-* [feedparser 5.1.3](https://pypi.python.org/pypi/feedparse)
+* [feedparser 5.1.3](https://pypi.python.org/pypi/feedparser)
 * [beautifulsoup4 4.4.1](http://www.crummy.com/software/BeautifulSoup/)
 
 ## Getting Started is Easy ##
